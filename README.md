@@ -16,3 +16,6 @@ Distinct differences exist in ride-sharing data between city types.
 
 ![Ride_Share_Data_Summary](/Resources/Ride_Share_Data_Summary.png).
 
+* The higher fares per ride seen in rural areas were not enought to make up for the volume of rides in urvban areas. As seen in the chart below, fares from urban areas were  
+
+![Fig8](/Analysis/Fig8.png).
