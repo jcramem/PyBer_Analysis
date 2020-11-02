@@ -14,3 +14,5 @@ Distinct differences exist in ride-sharing data between city types.
 
 * And yet the more rural the location, the higher the average fare, both per ride and per driver. This could be the result of the typical distance per ride in suburban and rural areas.
 
+![Ride_Share_Data_Summary](/Resources/Ride_Share_Data_Summary.png).
+
