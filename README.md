@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Project Overview
-The goal of this project is to summarize how ride-sharing data differ by city type and how those differences can be used by decision-makers at PyBer.
+The goal of this project is to summarize ride-sharing data differ by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Resources
 * Data Sources: city_data.csv, ride_data.csv
