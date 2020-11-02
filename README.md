@@ -6,3 +6,6 @@ The goal of this project is to summarize how ride-sharing data differ by city ty
 ## Resources
 * Data Sources: city_data.csv, ride_data.csv
 * Software: Python 3.7.6; Jupyter Notebook 6.0.3
+
+## Results 
+ 
