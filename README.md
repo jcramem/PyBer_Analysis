@@ -8,4 +8,7 @@ The goal of this project is to summarize how ride-sharing data differ by city ty
 * Software: Python 3.7.6; Jupyter Notebook 6.0.3
 
 ## Results 
- 
+Distinct differences exist in ride-sharing data between city types. 
+
+* As noted in the chart below, urban locales have substantially more drivers to accommodate substantially more rides. The farther one gets from urban areas, the fewer  
+
