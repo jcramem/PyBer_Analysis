@@ -16,6 +16,8 @@ Distinct differences exist in ride-sharing data between city types.
 
 ![Ride_Share_Data_Summary](/Resources/Ride_Share_Data_Summary.png).
 
-* The higher fares per ride seen in rural areas were not enought to make up for the volume of rides in urvban areas. As seen in the chart below, fares from urban areas were  
+* The higher fares per ride seen in rural areas were not enough to make up for the sheer volume of rides in urban areas. As seen in the chart below, total fares from urban areas were, depending on the week of the yea, 4-6 times higher than rural areas and 2-3 times higher than suburban areas.   
 
 ![Fig8](/Analysis/Fig8.png).
+
+* Week by week, total fares from rural areas were generally more consistent than from urban and suburban areas. Except for two anomalous weeks, total weekly fares for rural areas hovered around $250, whereas total weekely fares in urban areas ranged from ~$1,700 in early January to ~$2,500 in late February.  
