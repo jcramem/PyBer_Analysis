@@ -20,4 +20,8 @@ Distinct differences exist in ride-sharing data between city types.
 
 ![Fig8](/Analysis/Fig8.png).
 
-* Week by week, total fares from rural areas were generally more consistent than from urban and suburban areas. Except for two anomalous weeks, total weekly fares for rural areas hovered around $250, whereas total weekely fares in urban areas ranged from ~$1,700 in early January to ~$2,500 in late February.  
+* Week by week, total fares from rural and suburban areas were generally more consistent than from urban areas. Except for two anomalous weeks, total weekly fares for rural areas hovered around $250, whereas total weekly fares in urban areas ranged from ~$1,700 in early January to ~$2,500 in late February. Total weekly fares in suburban areas were typically around $1,000. 
+
+## Summary
+
+Based on an analysis of ride-sharing data, Pyber may consider the following:
